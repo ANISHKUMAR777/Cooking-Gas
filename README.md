@@ -16,7 +16,6 @@ To access this project on your local files, you can clone it using these steps
 ### Technologies Used
 1. HTML
 1. CSS
-1. Javascript
 
 ### Live Site
 View [live](https://ANISHKUMAR777.github.io/Cooking Gas/)
